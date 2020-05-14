@@ -14,6 +14,9 @@ Even more!
 
 so much more
 
+
+AND EVEN MORE! please fork this repo
+
 COPYRIGHT SECTION
 	copyright notice
 

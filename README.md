@@ -14,4 +14,7 @@ Even more!
 
 so much more
 
+COPYRIGHT SECTION
+	copyright notice
+
 Sample website with plenty of files for demos

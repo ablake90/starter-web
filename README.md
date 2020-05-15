@@ -12,6 +12,7 @@ More
 
 Added a line for rebasing example
 
+Update with fix after stash§
 
 Even more!
 
